@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Samael',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -162,15 +162,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Reddit',
-					link: 'https://www.linkedin.com',
+					link: 'https://www.reddit.com/',
 				},
 				{
 					name: 'IGN',
-					link: 'https://www.dribbble.com',
+					link: 'https://www.ign.com/',
 				},
 				{
 					name: 'GBATemp',
-					link: 'https://www.trello.com',
+					link: 'https://gbatemp.net/',
 				},
 				{
 					name: 'AltPress',
@@ -192,7 +192,7 @@ const CONFIG = {
 				},
 				{
 					name: '1337x',
-					link: 'https://www.reddit.com',
+					link: 'https://1337x.to/home/',
 				},
 				{
 					name: 'RARBG',
